@@ -1,4 +1,3 @@
-# Projet n°2 - Injection SQL sur OWASP Juice Shop - Burp suite
 <h1 align="center">
 Projet n°2 - Injection SQL sur OWASP Juice Shop - Burp Suite
 </h1>
