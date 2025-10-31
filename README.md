@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/actions/workflows/python-ci.yml">
+    <img src="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/actions/workflows/python-ci.yml/badge.svg" alt="Python CI">
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
+  </a>
+</p>
+
 [![Python CI](https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/actions/workflows/python-ci.yml/badge.svg)](https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/actions/workflows/python-ci.yml)
 [![Licence: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
