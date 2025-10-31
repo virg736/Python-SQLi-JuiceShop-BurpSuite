@@ -126,30 +126,7 @@ Attaque via Burp Suite
   "password": "test"     
 }      
 
-
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/blob/main/burp-juice-shop-whoami.png">
-          <img src="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/blob/main/burp-juice-shop-whoami.png"
-               alt="Burp Juice Shop - whoami"
-               width="420" style="max-width:100%;height:auto;">
-        </a>
-        <br><em>Burp — whoami (Connexion admin réussie)</em>
-      </td>
-      <td align="center">
-        <a href="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/blob/main/owasp-juice-shop-login-admin-success.png">
-          <img src="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/blob/main/owasp-juice-shop-login-admin-success.png"
-               alt="OWASP Juice Shop - login admin success"
-               width="420" style="max-width:100%;height:auto;">
-        </a>
-        <br><em>OWASP — page admin (Login success)</em>
-      </td>
-    </tr>
-  </table>
-</p>
-
+         
 ---
 
 	•	Réception d’un token JWT dans la réponse (preuve d’authentification).  
