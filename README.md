@@ -65,4 +65,4 @@ sudo ./start_juice.sh
 sudo docker ps
 
 🟢 Juice Shop est accessible depuis Parrot :
-"http://192.168.100.20:3000"
+'http://192.168.100.20:3000'
