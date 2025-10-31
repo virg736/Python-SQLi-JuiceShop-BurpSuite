@@ -1,18 +1,18 @@
-# 💻 Projet GitHub n°2 – Injection SQL sur OWASP Juice Shop
+# Projet GitHub n°2 – Injection SQL sur OWASP Juice Shop
 
 ## 📚 Sommaire
 
-1. [🎯 Objectif du projet](#-objectif-du-projet)  
-2. [🧱 Environnement de test](#-environnement-de-test)  
-3. [🛠️ Outils utilisés](#️-outils-utilisés)  
-4. [🔌 Étape 1 – Connexion des machines](#-étape-1--connexion-des-machines)  
-5. [🚀 Étape 2 – Lancement de Juice Shop](#-étape-2--lancement-de-juice-shop)  
-6. [🔓 Étape 3 – Connexion à Juice Shop](#-étape-3--connexion-à-juice-shop)  
-7. [🩻 Étape 4 – Injection SQL simple](#-étape-4--injection-sql-simple)  
-8. [👁️ Étape 5 – Injection SQL avancée (Blind SQLi)](#-étape-5--injection-sql-avancée-blind-sqli)  
-9. [🧪 Attaque via Burp Suite](#-attaque-via-burp-suite)  
-10. [🧠 Vocabulaire utile](#-vocabulaire-utile)  
-11. [🛡️ Sécurité & Légalité](#️-sécurité--légalité)  
+1. [ Objectif du projet](#-objectif-du-projet)  
+2. [ Environnement de test](#-environnement-de-test)  
+3. [ Outils utilisés](#️-outils-utilisés)  
+4. [ Étape 1 – Connexion des machines](#-étape-1--connexion-des-machines)  
+5. [ Étape 2 – Lancement de Juice Shop](#-étape-2--lancement-de-juice-shop)  
+6. [ Étape 3 – Connexion à Juice Shop](#-étape-3--connexion-à-juice-shop)  
+7. [ Étape 4 – Injection SQL simple](#-étape-4--injection-sql-simple)  
+8. [ Étape 5 – Injection SQL avancée (Blind SQLi)](#-étape-5--injection-sql-avancée-blind-sqli)  
+9. [ Attaque via Burp Suite](#-attaque-via-burp-suite)  
+10 [ Vocabulaire utile](#-vocabulaire-utile)  
+11 [🛡️ Sécurité & Légalité](#️-sécurité--légalité)  
 12. [📈 Suivi des projets GitHub](#-suivi-des-projets-github)  
 
 ---
