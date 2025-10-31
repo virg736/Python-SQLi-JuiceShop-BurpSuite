@@ -132,7 +132,22 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiJ9...
 🔐 Connexion admin réussie via injection SQL interceptée et modifiée dans Burp Suite.   
 
 
+---
 
+Vocabulaire utile
+
+Terme
+Définition
+Injection SQL
+Code malveillant injecté dans une requête SQL.
+Blind SQLi
+Variante d’injection ne montrant pas de message d’erreur mais provoquant un comportement (ex: SLEEP).
+Payload
+Code ou donnée malveillante injectée.
+Authentification contournée
+Accès à un compte sans identifiants valides.
+Pentest
+Test d’intrusion légal simulant une attaque réelle.
 
 
 
