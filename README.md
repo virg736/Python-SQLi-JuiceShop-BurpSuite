@@ -150,13 +150,13 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiJ9...
 
 Sécurité & Légalité
 
-Ce projet a été réalisé dans un environnement local et légal.
-Il est strictement interdit de tester ce type de vulnérabilité sur des systèmes réels sans autorisation explicite.
+Ce projet a été réalisé dans un environnement local et légal.  
+Il est strictement interdit de tester ce type de vulnérabilité sur des systèmes réels sans autorisation explicite.   
 
-🧪 Plateformes d’entraînement légales recommandées :
-	•	OWASP Juice Shop￼
-	•	DVWA￼
-	•	bWAPP￼
+ Plateformes d’entraînement légales recommandées :   
+	•	OWASP Juice Shop   
+	•	DVWA   
+	•	bWAPP   
 
 ---
 
