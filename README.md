@@ -81,8 +81,17 @@ cd /root/
 sudo ./start_juice.sh
 sudo docker ps
 
+        </a>
+        <br><em>Déploiement Juice Shop (Debian / Docker)</em>
+      </td>
+    </tr>
+  </table>
+</p>
+
 🟢 Juice Shop est accessible depuis Parrot :
 `192.168.100.10:3000`
+
+
 
 ---
 🔓 Étape 3 - Connexion à Juice Shop
