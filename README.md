@@ -111,25 +111,25 @@ Attaque via Burp Suite
 
 ---
 
-	•	Réception d’un token JWT dans la réponse (preuve d’authentification).
+	•	Réception d’un token JWT dans la réponse (preuve d’authentification).  
 
-🔍 Vérification de l’identité (whoami)
+🔍 Vérification de l’identité (whoami)   
 
-GET /rest/user/whoami
-Authorization: Bearer eyJhbGciOiJIUzI1NiJ9...
+GET /rest/user/whoami   
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9...    
 
 
-✅ Réponse :
+✅ Réponse :   
 
-{
-  "user": {
-    "email": "admin@juice-sh.op",
-    "role": "admin",
-    "profileImage": "assets/public/images/uploads/defaultAdmin.png"
-  }
-}
+{   
+  "user": {   
+    "email": "admin@juice-sh.op",   
+    "role": "admin",   
+    "profileImage": "assets/public/images/uploads/defaultAdmin.png"   
+  }   
+}   
 
-🔐 Connexion admin réussie via injection SQL interceptée et modifiée dans Burp Suite.
+🔐 Connexion admin réussie via injection SQL interceptée et modifiée dans Burp Suite.   
 
 
 
