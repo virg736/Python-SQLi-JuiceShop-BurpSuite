@@ -86,7 +86,24 @@ Une **injection SQL** est une vulnérabilité où un attaquant insère du code m
 ⚠️ À noter :  
 - Si **vous** souhaitez mettre à jour les paquets ou télécharger des outils depuis Internet, il faudra temporairement repasser en **NAT** ou en **mode bridge**.
 - Pour effectuer des tests en environnement isolé et sécurisé, je recommande d'utiliser un **réseau interne VirtualBox (Internal Network)**. Ce mode permet uniquement la communication entre les machines virtuelles et les isole de l'hôte et d'Internet.
+
 ---
+
+## Outils modernes utilisés
+
+Ce projet s’appuie sur un ensemble d’outils récents et reconnus dans le domaine de la cybersécurité :
+
+- **Docker** → pour déployer facilement des environnements isolés et reproductibles.  
+- **OWASP Juice Shop** → application volontairement vulnérable, idéale pour s’exercer en toute légalité.  
+- **Burp Suite** → outil moderne d’analyse et d’interception de requêtes HTTP.  
+- **Parrot OS / Debian** → systèmes d’exploitation adaptés aux tests de sécurité.  
+- **Firefox** → navigateur open source utilisé pour les tests d’interaction web.  
+- **Python** → langage moderne et polyvalent, utilisé pour automatiser les tests (scripts SQLi, analyses, etc.).
+
+Ces outils reflètent les **pratiques actuelles** du pentesting et de la sécurité applicative moderne, tout en garantissant un cadre **sécurisé, légal et pédagogique**.
+
+---
+
 
 ##  Outils utilisés
 
