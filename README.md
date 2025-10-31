@@ -262,21 +262,6 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiJ9...
 | **Pentest**       | Test d’intrusion légal simulant une attaque réelle. |
 
 
-----
-
-## Exemple concret : comment une faille peut toucher un commerçant
-
-Imaginons un petit site de commerce en ligne : **BoutiqueDuCoin**.  
-Les clients peuvent s’y connecter, chercher des produits et passer commande via un **formulaire** (zone de saisie) ou une **API** (outil invisible qui échange des données entre le site et l’application mobile).  
-
-Un jour, un attaquant teste le champ de recherche avec des caractères inhabituels.  
-Le site réagit de manière étrange : il révèle sans le vouloir une faille d’**injection SQL**.  
-Grâce à cette vulnérabilité, l’attaquant parvient à accéder à la base de données et à voir des informations clients (emails, adresses, commandes).  
-
-Ce type d’attaque se produit directement sur les **sites web** et leurs **API**, quand les données envoyées par l’utilisateur ne sont pas correctement vérifiées.  
-
-**Conclusion :**  
-Vérifier et filtrer toutes les données reçues, utiliser des requêtes sécurisées et limiter les droits d’accès permet d’éviter ce genre d’incident.
 
 ---
 
