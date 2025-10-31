@@ -11,13 +11,13 @@
 7. [ Étape 4 - Injection SQL simple](#-étape-4--injection-sql-simple)  
 8. [ Étape 5 - Injection SQL avancée (Blind SQLi)](#-étape-5--injection-sql-avancée-blind-sqli)  
 9. [ Attaque via Burp Suite](#-attaque-via-burp-suite)  
-10 [ Vocabulaire utile](#-vocabulaire-utile)  
-11 [🛡️ Sécurité & Légalité](#️-sécurité--légalité)  
-12. [📈 Suivi des projets GitHub](#-suivi-des-projets-github)  
+10. [ Vocabulaire utile](#-vocabulaire-utile)  
+11. [🛡️ Sécurité & Légalité](#️-sécurité--légalité)  
+12. [ Suivi des projets GitHub](#-suivi-des-projets-github)  
 
 ---
 
-## 🎯 Objectif du projet
+##  Objectif du projet
 
 Simuler une attaque **SQL Injection** dans un environnement sécurisé et local, via l’application volontairement vulnérable **OWASP Juice Shop**, afin de comprendre les risques liés à l'injection de requêtes SQL.
 
@@ -46,10 +46,10 @@ Simuler une attaque **SQL Injection** dans un environnement sécurisé et local,
 
 ---
 
-##  Étape 1 – Connexion des machines
+##  Étape 1 - Connexion des machines
 
-# Depuis Parrot :
+Depuis Parrot :
 ping 192.168.100.20
 
-# Depuis Debian :
+Depuis Debian :
 ping 192.168.100.10
