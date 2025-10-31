@@ -54,7 +54,7 @@ Une **injection SQL** est une vulnérabilité où un attaquant insère du code m
 
 **Conséquences :** accès non autorisé à des comptes, fuite de données clients, altération de contenu.
 
-**Prévention (en bref) :** valider et filtrer les entrées, utiliser des requêtes paramétrées/ORM, limiter les droits des comptes base de données et surveiller les logs.
+**Prévention :** valider et filtrer les entrées, utiliser des requêtes paramétrées/ORM, limiter les droits des comptes base de données et surveiller les logs.
 
 
 ---
