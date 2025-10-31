@@ -1,5 +1,13 @@
 # Projet n°2 - Injection SQL sur OWASP Juice Shop
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/virg736/Python-SQLi-JuiceShop-BurpSuite/main/Projet%20python.PNG"
+       alt="Couverture Projet Python"
+       width="900" style="max-width:100%;height:auto;">
+</p>
+
+
+
 ## 📚 Sommaire
 
 1. [ Objectif du projet](#-objectif-du-projet)  
