@@ -149,6 +149,13 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiJ9...
 🔐 Connexion admin réussie via une injection SQL interceptée et modifiée dans Burp Suite.   
 
 
+
+<p align="center">
+  <img src="images/burp-juice-shop-whoami.png" alt="Burp Juice Shop - whoami" width="700"/>
+  <br/>
+  <em>Figure — Connexion admin réussie (burp-juice-shop-whoami.png)</em>
+</p>
+
 ---
 
 ## Vocabulaire utile
