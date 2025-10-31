@@ -53,3 +53,11 @@ ping 192.168.100.10
 
 Depuis Debian :
 ping 192.168.100.20
+
+✅ Les machines communiquent correctement.
+
+---
+
+
+
+
