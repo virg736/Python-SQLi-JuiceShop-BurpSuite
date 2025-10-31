@@ -56,8 +56,6 @@ ping 192.168.100.20
 
 ✅ Le ping confirme une communication bidirectionnelle entre Parrot (attaquant) et Debian (victime).
 
-✅ Les machines communiquent correctement.
-
 ---
 
 Étape 2 - Lancement de Juice Shop (sur Debian)
@@ -70,9 +68,9 @@ sudo docker ps
 `192.168.100.10:3000`
 
 ---
-🔓 Étape 3 – Connexion à Juice Shop
+🔓 Étape 3 - Connexion à Juice Shop
 
-ℹ️ Remarque importante : Le service Juice Shop est hébergé sur la machine Debian (victime), mais l’accès à l’interface web se fait depuis Parrot (attaquant) via un navigateur.
+ℹ️ Remarque importante : Le service Juice Shop est hébergé sur la machine Debian (victime), mais l'accès à l'interface web se fait depuis Parrot (attaquant) via un navigateur.
 
 URL de connexion (depuis Parrot) :
 
