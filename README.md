@@ -98,7 +98,7 @@ Password	test
 
 ---
 
-🧪 Attaque via Burp Suite
+Attaque via Burp Suite
 
 ⚙️ Détails techniques :
 	•	Interception de la requête POST /rest/user/login
@@ -110,3 +110,7 @@ Password	test
 }
 
 ---
+
+
+
+
