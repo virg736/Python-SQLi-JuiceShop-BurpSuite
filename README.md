@@ -161,7 +161,7 @@ Attaque via Burp Suite
                alt="Burp — Connexion admin réussie"
                width="420" style="max-width:100%;height:auto;">
         </a>
-        <br><em>Burp — Connexion admin réussie</em>
+        <br><em>Burp - Connexion admin réussie</em>
       </td>
       <td align="center">
         <a href="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/blob/main/owasp-juice-shop-login-admin-success.png">
@@ -169,7 +169,7 @@ Attaque via Burp Suite
                alt="OWASP — page admin (Login success)"
                width="420" style="max-width:100%;height:auto;">
         </a>
-        <br><em>OWASP — page admin (Login success)</em>
+        <br><em>OWASP - page admin (Login success)</em>
       </td>
     </tr>
   </table>
@@ -204,7 +204,7 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiJ9...
        alt="Burp Juice Shop - whoami"
        width="850">
   <br>
-  <em>Figure — Connexion admin réussie via injection SQL interceptée dans Burp Suite (burp-juice-shop-whoami.png)</em>
+  <em>Figure - Connexion admin réussie via injection SQL interceptée dans Burp Suite (burp-juice-shop-whoami.png)</em>
 </p>
 
 
