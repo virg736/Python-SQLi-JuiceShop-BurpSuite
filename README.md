@@ -108,6 +108,15 @@ URL de connexion (depuis Parrot) :
 
 URL de connexion : `http://192.168.100.10:3000`
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/virg736/Python-SQLi-JuiceShop-BurpSuite/main/parrot-juice-shop-sqlmap-terminal.png"
+       alt="Terminal Parrot – Utilisation de SQLmap sur Juice Shop"
+       width="760" style="max-width:100%;height:auto;">
+  <br><em>Terminal Parrot – Utilisation de SQLmap sur Juice Shop</em>
+</p>
+
+
 ---
 
  Étape 4 - Injection SQL simple  
