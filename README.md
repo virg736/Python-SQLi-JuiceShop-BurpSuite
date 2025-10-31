@@ -53,8 +53,8 @@ Simuler une attaque par **SQL Injection** dans un environnement sécurisé et lo
 | Parrot OS     | Parrot Security   | Attaquant   | `192.168.100.20`  |
 | Debian        | Debian 13         | Victime     | `192.168.100.10`  |
 
-➡️ Les deux machines tournent sur **VirtualBox** en **réseau local (réseau interne isolé)**.
-⚠️ À noter :
+➡️ Les deux machines tournent sur **VirtualBox** en **réseau local (réseau interne isolé)**.  
+⚠️ À noter :  
 - Si **vous** souhaitez mettre à jour les paquets ou télécharger des outils depuis Internet, il faudra temporairement repasser en **NAT** ou en **mode bridge**.
 - Pour effectuer des tests en environnement isolé et sécurisé, je recommande d'utiliser un **réseau interne VirtualBox (Internal Network)**. Ce mode permet uniquement la communication entre les machines virtuelles et les isole de l'hôte et d'Internet.
 ---
