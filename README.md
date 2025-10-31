@@ -54,6 +54,8 @@ ping 192.168.100.10
 Depuis Debian :
 ping 192.168.100.20
 
+✅ Le ping confirme une communication bidirectionnelle entre Parrot (attaquant) et Debian (victime).
+
 ✅ Les machines communiquent correctement.
 
 ---
