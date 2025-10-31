@@ -27,8 +27,8 @@ Simuler une attaque **SQL Injection** dans un environnement sécurisé et local,
 
 | Machine       | OS/Distro         | Rôle        | Adresse IP        |
 |---------------|-------------------|-------------|-------------------|
-| Parrot OS     | Parrot Security   | Attaquant   | `192.168.100.10`  |
-| Debian        | Debian 11         | Victime     | `192.168.100.20`  |
+| Parrot OS     | Parrot Security   | Attaquant   | `192.168.100.20`  |
+| Debian        | Debian 13         | Victime     | `192.168.100.10`  |
 
 ➡️ Les deux machines tournent sur **VirtualBox** en **réseau local (bridge)**.
 
@@ -49,7 +49,7 @@ Simuler une attaque **SQL Injection** dans un environnement sécurisé et local,
 ##  Étape 1 - Connexion des machines
 
 Depuis Parrot :
-ping 192.168.100.20
+ping 192.168.100.10
 
 Depuis Debian :
-ping 192.168.100.10
+ping 192.168.100.20
