@@ -82,6 +82,13 @@ sudo ./start_juice.sh
 sudo docker ps
 
 <p align="center">
+  <img src="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/blob/main/debian-docker-juice-shop.png" 
+       alt="Déploiement Juice Shop (Debian / Docker)" width="760" style="max-width:100%;height:auto;">
+  <br><em>Déploiement Juice Shop (Debian / Docker)</em>
+</p>
+
+
+<p align="center">
   <img src="images/debian-docker-juice-shop.png" alt="Déploiement Juice Shop (Debian / Docker)" width="760" style="max-width:100%;height:auto;">
   <br><em>Déploiement Juice Shop (Debian / Docker)</em>
 </p>
