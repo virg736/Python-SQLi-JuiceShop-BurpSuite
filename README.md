@@ -1,4 +1,4 @@
-# Projet GitHub n°2 – Injection SQL sur OWASP Juice Shop
+# Projet n°2 - Injection SQL sur OWASP Juice Shop
 
 ## 📚 Sommaire
 
