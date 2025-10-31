@@ -59,7 +59,7 @@ Simuler une attaque par **SQL Injection** dans un environnement sécurisé et lo
 | Projet 5  | Génération de rapports JSON / Markdown   | 🕒 À venir    |
 
 > 🧭 **Note importante** :  
-> Ce projet est divisé en 5 projets pédagogiques, chacune correspondant à une **fonctionnalité clé**. Les étapes seront publiées progressivement dans le dépôt **CyberCrawler-Python**.
+> Ce projet est divisé en 5 projets pédagogiques, chacun correspondant à une **fonctionnalité clé**. Les étapes seront publiées progressivement dans le dépôt **CyberCrawler-Python**.
 
 ----
 
