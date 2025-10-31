@@ -23,6 +23,21 @@ Simuler une attaque **SQL Injection** dans un environnement sécurisé et local,
 
 ---
 
+## 🚀 Avancement des étapes du projet
+
+| Étape    | Fonction                                 | Statut       |
+|----------|------------------------------------------|--------------|
+| Étape 1  | Crawler HTML récursif                    | ✅ Terminé    |
+| Étape 2  | Détection d'injections SQL               | ✅ Terminé
+| Étape 3  | Détection de failles XSS                 | 🕒 À venir    |
+| Étape 4  | Recherche de données sensibles           | 🕒 À venir    |
+| Étape 5  | Génération de rapports JSON / Markdown   | 🕒 À venir    |
+
+> 🧭 **Note importante** :  
+> Ce projet est divisé en 5 étapes pédagogiques, chacune correspondant à une **fonctionnalité clé**. Les étapes seront publiées progressivement dans le dépôt **CyberCrawler-Python**.
+
+----
+
 ##  Environnement de test
 
 | Machine       | OS/Distro         | Rôle        | Adresse IP        |
