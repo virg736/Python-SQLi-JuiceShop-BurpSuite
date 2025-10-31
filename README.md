@@ -214,7 +214,7 @@ Attaque via Burp Suite
       <td align="center">
         <a href="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/blob/main/burp-juice-shop-whoami.png">
           <img src="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/blob/main/burp-juice-shop-whoami.png"
-               alt="Burp — Connexion admin réussie"
+               alt="Burp - Connexion admin réussie"
                width="420" style="max-width:100%;height:auto;">
         </a>
         <br><em>Burp - Connexion admin réussie</em>
@@ -239,7 +239,7 @@ Attaque via Burp Suite
       <td align="center">
         <a href="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/blob/main/burp-juice-shop-whoami.png">
           <img src="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/blob/main/burp-juice-shop-whoami.png"
-               alt="Burp — Connexion admin réussie"
+               alt="Burp - Connexion admin réussie"
                width="420" style="max-width:100%;height:auto;">
         </a>
         <br><em>Burp - Connexion admin réussie</em>
