@@ -70,4 +70,8 @@ sudo docker ps
 ---
 🔓 Étape 3 – Connexion à Juice Shop
 
+ℹ️ Remarque importante : Le service Juice Shop est hébergé sur la machine Debian (victime), mais l’accès à l’interface web se fait depuis Parrot (attaquant) via un navigateur.
+
+URL de connexion (depuis Parrot) :
+
 URL de connexion : `http://192.168.100.10:3000`
