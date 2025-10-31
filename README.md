@@ -31,7 +31,7 @@ Simuler une attaque par **SQL Injection** dans un environnement sécurisé et lo
 
 ---
 
-## 🚀 Avancement des étapes du projet
+##  Avancement des étapes du projet
 
 | Étape    | Fonction                                 | Statut       |
 |----------|------------------------------------------|--------------|
