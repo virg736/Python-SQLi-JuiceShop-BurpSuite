@@ -21,6 +21,23 @@ Usage pédagogique uniquement.
 </div>
 
 
+<div align="center">
+
+<p><em>Illustration du projet <strong>Injection SQL sur OWASP Juice Shop - Burp Suite</strong></em></p>
+
+<p>© 2025 Virginie Lechene - Tous droits réservés<br>
+Reproduction interdite sans autorisation préalable.<br>
+Usage pédagogique uniquement.</p>
+
+<a href="https://creativecommons.org/licenses/by-nd/4.0/" target="_blank" rel="noopener noreferrer">
+  <img src="https://licensebuttons.net/l/by-nd/4.0/88x31.png" alt="Licence Creative Commons BY-ND 4.0">
+</a>
+
+<p><em>Image protégée - Propriété exclusive</em></p>
+
+</div>
+
+
 ## 📚 Sommaire
 
 1. [ Objectif du projet](#-objectif-du-projet)  
