@@ -19,7 +19,7 @@
 
 ##  Objectif du projet
 
-Simuler une attaque **SQL Injection** dans un environnement sécurisé et local, via l’application volontairement vulnérable **OWASP Juice Shop**, afin de comprendre les risques liés à l'injection de requêtes SQL.
+Simuler une attaque par **SQL Injection** dans un environnement sécurisé et local, via l’application volontairement vulnérable **OWASP Juice Shop**, afin de comprendre les risques liés à l'injection de requêtes SQL.
 
 ---
 
@@ -45,7 +45,7 @@ Simuler une attaque **SQL Injection** dans un environnement sécurisé et local,
 | Parrot OS     | Parrot Security   | Attaquant   | `192.168.100.20`  |
 | Debian        | Debian 13         | Victime     | `192.168.100.10`  |
 
-➡️ Les deux machines tournent sur **VirtualBox** en **réseau local (bridge)**.
+➡️ Les deux machines tournent sur **VirtualBox** en **réseau local (réseau interne isolé)**.
 
 ---
 
@@ -69,7 +69,7 @@ ping 192.168.100.10
 Depuis Debian :
 ping 192.168.100.20
 
-✅ Le ping confirme une communication bidirectionnelle entre Parrot (attaquant) et Debian (victime).
+✅ Le ping confirme une communication bidirectionnelle, entre Parrot (attaquant) et Debian (victime).
 
 ---
 
