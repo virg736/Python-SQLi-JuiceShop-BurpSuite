@@ -7,8 +7,6 @@
   </a>
 </p>
 
-[![Python CI](https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/actions/workflows/python-ci.yml/badge.svg)](https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/actions/workflows/python-ci.yml)
-[![Licence: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 <h1 align="center">
 Projet n°2 - Injection SQL sur OWASP Juice Shop - Burp Suite
