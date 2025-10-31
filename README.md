@@ -317,14 +317,14 @@ Il est strictement interdit de tester ce type de vulnérabilité sur des systèm
 
 ---
 
-# 🧩 Commentaire :
-# Ce script constitue une bonne base pour la détection d’injections SQL.
-# Il fonctionne correctement mais peut être amélioré pour une utilisation plus sûre.
-# Des optimisations sont recommandées :
-# - Ajouter une normalisation et un décodage des entrées (Unicode / URL)
-# - Utiliser des allowlists selon le type de champ (email, texte, identifiant)
-# - Précompiler les regex pour de meilleures performances
-# - Mettre en place des tests unitaires et renforcer la validation côté base de données
+🟢 Note concernan le script 
+Ce script constitue une bonne base pour la détection d’injections SQL.
+Il fonctionne correctement mais peut être amélioré pour une utilisation plus sûre.
+Des optimisations sont recommandées :
+ - Ajouter une normalisation et un décodage des entrées (Unicode / URL)
+ - Utiliser des allowlists selon le type de champ (email, texte, identifiant)
+ - Précompiler les regex pour de meilleures performances
+ - Mettre en place des tests unitaires et renforcer la validation côté base de données
 
 --- 
 
