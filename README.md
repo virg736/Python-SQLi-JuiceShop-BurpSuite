@@ -126,8 +126,8 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiJ9...
     "email": "admin@juice-sh.op",   
     "role": "admin",   
     "profileImage": "assets/public/images/uploads/defaultAdmin.png"   
-  }   
-}   
+  }     
+}      
 
 🔐 Connexion admin réussie via injection SQL interceptée et modifiée dans Burp Suite.   
 
