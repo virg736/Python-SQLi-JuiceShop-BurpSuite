@@ -225,7 +225,7 @@ Attaque via Burp Suite
                alt="OWASP - page admin (Login advanced)"
                width="420" style="max-width:100%;height:auto;">
         </a>
-        <br><em>OWASP — page admin (Login advanced)</em>
+        <br><em>OWASP - page admin (Login advanced)</em>
       </td>
     </tr>
   </table>
