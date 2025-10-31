@@ -58,11 +58,11 @@ ping 192.168.100.20
 
 ---
 
-Étape 2 – Lancement de Juice Shop (sur Debian)
+Étape 2 - Lancement de Juice Shop (sur Debian)
 
 cd /root/
 sudo ./start_juice.sh
 sudo docker ps
 
 🟢 Juice Shop est accessible depuis Parrot :
-http://192.168.100.20:3000
+"http://192.168.100.20:3000"
