@@ -317,7 +317,7 @@ Il est strictement interdit de tester ce type de vulnérabilité sur des systèm
 
 ---
 
-🟢 Note concernan le script 
+🟢 Note   
 Ce script constitue une bonne base pour la détection d’injections SQL.
 Il fonctionne correctement mais peut être amélioré pour une utilisation plus sûre.
 Des optimisations sont recommandées :
