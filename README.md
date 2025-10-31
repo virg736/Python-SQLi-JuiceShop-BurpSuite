@@ -87,17 +87,9 @@ sudo docker ps
   <br><em>Déploiement Juice Shop (Debian / Docker)</em>
 </p>
 
-
-<p align="center">
-  <img src="images/debian-docker-juice-shop.png" alt="Déploiement Juice Shop (Debian / Docker)" width="760" style="max-width:100%;height:auto;">
-  <br><em>Déploiement Juice Shop (Debian / Docker)</em>
-</p>
-
        
 🟢 Juice Shop est accessible depuis Parrot :
 `192.168.100.10:3000`
-
-
 
 ---
 🔓 Étape 3 - Connexion à Juice Shop
