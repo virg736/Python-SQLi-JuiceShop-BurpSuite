@@ -322,7 +322,7 @@ Il est strictement interdit de tester ce type de vulnérabilité sur des systèm
 Python-SQLi-JuiceShop-BurpSuite
 
 Script de défense contre les injections SQL (defense.py)  
-Auteur : Virginie Lechene — Licence : MIT
+Auteur : Virginie Lechene - Licence : MIT
 
 🟢 Description
 Ce script propose un filtre simple pour détecter des tentatives d'injection SQL via des motifs (regex). Il inclut une fonction `is_safe_input()` et un petit jeu de tests exécutables si le fichier est lancé directement.
