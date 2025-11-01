@@ -317,14 +317,42 @@ Il est strictement interdit de tester ce type de vulnérabilité sur des systèm
 
 ---
 
-🟢 Note   
-Ce script constitue une bonne base pour la détection d’injections SQL.
-Il fonctionne correctement mais peut être amélioré pour une utilisation plus sûre.
+🟢 Note : Script 
+
+# Python-SQLi-JuiceShop-BurpSuite
+
+Script de défense contre les injections SQL (defense.py)  
+Auteur : Virginie Lechene — Licence : MIT
+
+## Description
+Ce script propose un filtre simple pour détecter des tentatives d'injection SQL via des motifs (regex). Il inclut une fonction `is_safe_input()` et un petit jeu de tests exécutables si le fichier est lancé directement.
+
+## Prérequis
+- Python 3.8+ (testé avec Python 3.13)
+- (Optionnel) `venv` pour isoler l'environnement
+
+## Installation et exécution (Linux / macOS)
+
+# 1. cloner le dépôt
+git clone https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite.git
+cd Python-SQLi-JuiceShop-BurpSuite
+
+# 2. créer et activer un environnement virtuel (recommandé)
+python3 -m venv venv
+source venv/bin/activate
+
+# 3. vérifier la syntaxe (optionnel)
+python -m py_compile defense.py
+
+# 4. exécuter le script
+python defense.py
+
 Des optimisations sont recommandées :
  - Ajouter une normalisation et un décodage des entrées (Unicode / URL)
  - Utiliser des allowlists selon le type de champ (email, texte, identifiant)
  - Précompiler les regex pour de meilleures performances
  - Mettre en place des tests unitaires et renforcer la validation côté base de données
+
 
 --- 
 
