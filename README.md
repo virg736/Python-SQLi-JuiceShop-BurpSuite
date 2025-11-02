@@ -353,6 +353,20 @@ python defense.py
  - Précompiler les regex pour de meilleures performances
  - Mettre en place des tests unitaires et renforcer la validation côté base de données  
 
+🟢 **Des optimisations sont recommandées :**
+
+- **Ajouter une normalisation et un décodage des entrées (Unicode / URL)**  
+  Avant d’analyser une entrée, décoder les encodages URL (`%xx`) et normaliser Unicode (NFKC) afin d’éviter les contournements par encodage. Supprimer aussi les caractères de contrôle.
+
+- **Utiliser des allowlists selon le type de champ (email, texte, identifiant)**  
+  Valider positivement les champs selon leur usage : identifiants (`^\d+$`), email (validation spécifique), noms (caractères autorisés), etc. C’est la méthode la plus sûre.
+
+- **Précompiler les regex pour de meilleures performances**  
+  Précompiler les motifs d’analyse (`re.compile(..., re.IGNORECASE)`) pour éviter de les recompiler à chaque appel et gagner en vitesse.
+
+- **Mettre en place des tests unitaires et renforcer la validation côté base de données**  
+  Ajouter des tests unitaires (cas malveillants / cas légitimes) et appliquer une validation côté base (contraintes, requêtes paramétrées) : ceci garantit la défense en profondeur.
+
 
 --- 
 
