@@ -55,6 +55,9 @@ Usage pédagogique uniquement.</p>
 ##  Objectif du projet
 
 Simuler une attaque par **SQL Injection** dans un environnement sécurisé et local, via l’application volontairement vulnérable **OWASP Juice Shop**, afin de comprendre les risques liés à l'injection de requêtes SQL.
+(*) Note : Le token affiché sur une capture d’écran provenait d’une instance locale (VirtualBox). 
+Le conteneur Juice Shop est actuellement arrêté et supprimé, le token n’est plus valide. 
+Toutes les démonstrations ont été effectuées dans un environnement isolé à des fins pédagogiques.
 
 ---
 
@@ -69,7 +72,6 @@ Prévention : valider et filtrer les entrées, utiliser des requêtes paramétr�
 
 
 ---
-
 
 ##  Avancement des étapes du projet
 
