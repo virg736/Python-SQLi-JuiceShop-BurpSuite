@@ -290,7 +290,7 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiJ9...
 
 
 (*) Note : Le token affiché sur une capture d’écran provenait d’une instance locale (VirtualBox). 
-Le conteneur Juice Shop est actuellement arrêté et le token n’est plus valide. 
+Le conteneur Juice Shop est actuellement arrêté et supprimé, le token n’est plus valide. 
 Toutes les démonstrations ont été effectuées dans un environnement isolé à des fins pédagogiques.
 
 ---
