@@ -325,26 +325,26 @@ Script de défense contre les injections SQL (defense.py)
 Auteur : Virginie Lechene - Licence : MIT  
 
 🟢 Description  
-Ce script propose un filtre simple pour détecter des tentatives d'injection SQL via des motifs (regex). Il inclut une fonction `is_safe_input()` et un petit jeu de tests exécutables si le fichier est lancé directement.  
+Ce script propose un filtre simple pour détecter des tentatives d'injection SQL à l'aide de motifs (regex). Il inclut une fonction `is_safe_input()` ainsi qu'un petit jeu de tests exécutables lorsque le fichier est lancé directement.  
 
-🟢 Prérequit  
+🟢 Prérequis  
 - Python 3.8+ (testé avec Python 3.13)  
-- (Optionnel) `venv` pour isoler l'environnement  
+- (Optionnel) environnement `venv` pour isoler l'environnement  
 
 🟢 Installation et exécution (Linux / macOS)  
 
-1. cloner le dépôt  
+1. Cloner le dépôt  
 git clone https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite.git  
 cd Python-SQLi-JuiceShop-BurpSuite  
 
-2. créer et activer un environnement virtuel (recommandé)  
+2. Créer et activer un environnement virtuel (recommandé)  
 python3 -m venv venv  
 source venv/bin/activate  
 
-3. vérifier la syntaxe (optionnel)  
+3. Vérifier la syntaxe (optionnel)  
 python -m py_compile defense.py  
 
-4. exécuter le script  
+4. Exécuter le script  
 python defense.py  
 
 🟢 Des optimisations sont recommandées :  
