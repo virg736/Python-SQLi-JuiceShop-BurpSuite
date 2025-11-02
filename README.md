@@ -64,7 +64,7 @@ Toutes les démonstrations ont été effectuées dans un environnement isolé à
 
 Qu’est-ce qu’une attaque SQL (injection SQL) ?
 
-Une injection SQL est une vulnérabilité où un attaquant insère du code malveillant dans des données envoyées à une base de données (via un formulaire, une URL ou une API).
+Une injection SQL est une vulnérabilité où un attaquant insère du code malveillant dans des données envoyées à une base de données (via un formulaire, une URL ou une API).  
 Si l’application ne filtre pas correctement ces données, la base de données peut exécuter des instructions non prévues, permettant à l’attaquant de lire, modifier ou supprimer des informations sensibles.
 
 Conséquences : accès non autorisé à des comptes, fuite de données clients, altération de contenu.
