@@ -217,7 +217,9 @@ Attaque via Burp Suite
                alt="Burp - Connexion admin réussie"
                width="420" style="max-width:100%;height:auto;">
         </a>
-        <br><em>Burp - Connexion admin réussie</em>
+        <br><em>Burp - Connexion admin réussie(*) Note : Le token affiché sur une capture d’écran provenait d’une instance locale (VirtualBox). 
+Le conteneur Juice Shop est actuellement arrêté et supprimé, le token n’est plus valide. 
+Toutes les démonstrations ont été effectuées dans un environnement isolé à des fins pédagogiques.,</em>
       </td>
       <td align="center">
         <a href="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/blob/main/owasp-juice-shop-login-admin-advanced.png">
