@@ -220,7 +220,7 @@ Attaque via Burp Suite
                alt="Burp - Connexion admin réussie"
                width="420" style="max-width:100%;height:auto;">
         </a>
-        <br><em>Burp - Connexion admin réussie,</em>
+        <br><em>Burp - Connexion admin réussie</em>
       </td>
       <td align="center">
         <a href="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/blob/main/owasp-juice-shop-login-admin-advanced.png">
