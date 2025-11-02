@@ -138,6 +138,12 @@ ping 192.168.100.20
 
 ✅ Le ping confirme une communication bidirectionnelle, entre Parrot (attaquant) et Debian (victime).
 
+⚠️ **Environnement de test**
+Les captures et démonstrations présentées dans ce dépôt ont été réalisées dans un environnement **isolé** :
+- Attaquant : Parrot OS (VirtualBox)
+- Victime : Debian / OWASP Juice Shop (VirtualBox)
+Les machines sont connectées en **Host-only/Internal Network** et ne communiquent pas avec des systèmes réels. Aucune action illégale n’a été entreprise.
+
 ---
 
 Étape 2 - Lancement de Juice Shop (sur Debian)
