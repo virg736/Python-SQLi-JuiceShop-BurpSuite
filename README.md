@@ -347,12 +347,6 @@ python -m py_compile defense.py
 4. Exécuter le script  
 python defense.py  
 
-🟢 Des optimisations sont recommandées :  
- - Ajouter une normalisation et un décodage des entrées (Unicode / URL)  
- - Utiliser des allowlists selon le type de champ (email, texte, identifiant)  
- - Précompiler les regex pour de meilleures performances
- - Mettre en place des tests unitaires et renforcer la validation côté base de données  
-
 🟢 **Des optimisations sont recommandées :**
 
 - **Ajouter une normalisation et un décodage des entrées (Unicode / URL)**  
