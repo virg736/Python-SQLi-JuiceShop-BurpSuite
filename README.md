@@ -148,24 +148,25 @@ Les machines sont connectées en **Host-only/Internal Network** et ne communique
 
 ---
 
-Étape 2 - Lancement de Juice Shop (sur Debian)
+Étape 2 - Lancement de Juice Shop (sur Debian)   
 
-cd /root/
-sudo ./start_juice.sh
-sudo docker ps
+cd /root/   
+sudo ./start_juice.sh    
+sudo docker ps   
 
      
-🟢 Juice Shop est accessible depuis Parrot :
-`192.168.100.10:3000`
+🟢 Juice Shop est accessible depuis Parrot :   
+`192.168.100.10:3000`   
 
 ---
-🔓 Étape 3 - Connexion à Juice Shop
 
-ℹ️ Remarque importante : Le service Juice Shop est hébergé sur la machine Debian (victime), mais l'accès à l'interface web se fait depuis Parrot (attaquant) via un navigateur.
+🔓 Étape 3 - Connexion à Juice Shop   
 
-URL de connexion (depuis Parrot) :
+ℹ️ Remarque importante : Le service Juice Shop est hébergé sur la machine Debian (victime), mais l'accès à l'interface web se fait depuis Parrot (attaquant) via un navigateur.   
 
-URL de connexion : `http://192.168.100.10:3000`
+URL de connexion (depuis Parrot) :   
+
+URL de connexion : `http://192.168.100.10:3000`    
 
 
 <p align="center">
